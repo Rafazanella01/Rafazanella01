@@ -64,6 +64,7 @@
   <!--<img src="https://github.com/Rafazanella01/Rafazanella01/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />-->
 </div>
 
+<br>
 
 ###
 
