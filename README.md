@@ -2,6 +2,8 @@
 
 ###
 
+<br clear="both">
+
 <h5 align="left">Sobre mim:<br><br>👨‍💻 Estudante de Engenharia de Computação, apaixonado por tecnologia e programação.<br><br>🔧 Utilizo Python, Java, SQL, Git, GitHub, Linux e Docker em meus projetos.<br><br>⚜️ Participante ativo do Movimento Escoteiro desde 2015.</h5>
 
 ###
@@ -12,6 +14,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h6 align="left">Tecnologias que utilizo e que tenho familiaridade:</h6>
 
@@ -37,6 +41,8 @@
 
 ###
 
+<br clear="both">
+
 <h6 align="left">Conecte-se Comigo!</h6>
 
 ###
@@ -59,17 +65,16 @@
 
 ###
 
+<br clear="both">
 
-<div align="center">
-  <!--<img src="https://github.com/Rafazanella01/Rafazanella01/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />-->
-</div>
-
-<br>
+<img src="https://raw.githubusercontent.com/Rafazanella01/Rafazanella01/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="left">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=12162982921" alt="Spotify recently played" /> 
+<div align="center">
+  <a href="https://open.spotify.com/user/Rafão Zanella">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Raf%C3%A3o%20Zanella&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
