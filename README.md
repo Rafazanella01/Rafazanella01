@@ -50,6 +50,7 @@
   <!--<img src="https://github.com/Rafazanella01/Rafazanella01/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />-->
 </div>
 <br>
+<br>
 
 <div align="left">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=12162982921" alt="Spotify recently played" />
