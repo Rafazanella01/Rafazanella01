@@ -32,8 +32,6 @@
 </div>
 
 ### Conecte-se Comigo!
-<img align="left" height="100" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=790b7611v1qttukyk2td7z5k3mdxfx0v1dl1ua480ayxadxz&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
-
 <div align="left">
   <a href="https://www.linkedin.com/in/rafael-schafer-zanella-516464260/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
